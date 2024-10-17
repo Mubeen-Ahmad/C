@@ -3,5 +3,7 @@
 
 - <a href="https://nbviewer.org/github/Mubeen-Ahmad/C/blob/main/1_introduction.ipynb">History and Importance of C</a><br>
 - <a href="https://nbviewer.org/github/Mubeen-Ahmad/C/blob/main/2_Type_Checking.ipynb">Type Checking and Static vs Dynamic Checking</a><br>
+- <a href="https://nbviewer.org/github/Mubeen-Ahmad/C/blob/main/3_Strong_and_Weak_Typing.ipynb">Strong and Weak Typing</a><br>
+- <a href="https://nbviewer.org/github/Mubeen-Ahmad/C/blob/main/4_Static_Binding_and_Dynamic_Binding.ipynb">Static and Dynamic Binding</a><br>
 
 </details>

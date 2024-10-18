@@ -6,6 +6,15 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/3_Strong_and_Weak_Typing.ipynb">Strong and Weak Typing</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/4_Static_Binding_and_Dynamic_Binding.ipynb">Static and Dynamic Binding</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/5_structure_of_c.ipynb">Structure of C Program</a><br>
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/6_story_of_compiler.ipynb">Story of Compiler, Interpreter, Assembler and Types of Languages </a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/6_story_of_compiler.ipynb">Story of Compiler, Interpreter, Assembler and Types of Languages </a>
+
+</details>
+
+<details>
+<summary> <h2>Tokens, IO Function and Variables Constants</h2></summary>
+
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/7_Tokens.ipynb">Tokens</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/7_Tokens.ipynb">Input Output Function</a><br>
+
 
 </details>

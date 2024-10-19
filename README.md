@@ -11,10 +11,10 @@
 </details>
 
 <details>
-<summary> <h2>Tokens, IO Function and Variables Constants</h2></summary>
+<summary> <h2>Tokens, IO - Function , Variables, Constants and Comments</h2></summary>
 
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/7_Tokens.ipynb">Tokens</a><br>
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/7_Tokens.ipynb">Input Output Function</a><br>
-
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/8_General_form.ipynb">General Form of c Code</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/8_General_form.ipynb">printf Function and Single,Double Qoutes and Format String</a><br>
 
 </details>

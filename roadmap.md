@@ -121,3 +121,36 @@
   - Error handling aur debugging techniques (e.g., `gdb`)
   - Writing clean, maintainable code
   - Optimization techniques for performance
+
+---
+
+### 1. **Start with C89 (K&R2)**
+   - **Focus on mastering the fundamentals**: This includes basic syntax, control flow, data structures, functions, and pointers.  
+   - **Do all the exercises** in the K&R2 book. Exercises are crucial as they reinforce key concepts, especially pointers, memory management, and recursion.  
+   - Learn how C handles **variables, arrays, structs, and unions** in this phase.
+
+### 2. **Explore C99 Features**
+   - **Variable-length arrays (VLAs)**: Introduced in C99, these allow arrays whose size is determined at runtime.  
+   - **Declarations beyond the beginning of a function**: C99 allows variables to be declared in any part of the function body, making code more readable.  
+   - **New data types** like `long long int` for larger integer storage.  
+   - Focus on **`stdbool.h`** for Boolean types and the inline keyword for performance optimization.
+
+### 3. **Move to C11/C18**
+   - **Anonymous structs/unions**: Explore how these simplify the structure of complex data types.  
+   - **Threading support**: C11 introduced the `<threads.h>` library, making C more competitive for multithreaded applications.  
+   - **Static assertions (`_Static_assert`)**: Useful for compile-time error checking.  
+   - **Optional VLAs**: You’ll see how C11 made VLAs optional, so understanding their significance is essential.  
+   - **Memory management improvements**: Look into memory safety with new functions like `aligned_alloc()`.
+
+### 4. **Look at C2x Features (Optional)**
+   - **Type inference**: While still under development, C2x may bring modern features like better type inference, enhancing flexibility.  
+   - **Advanced math functions**: Additional functions for math and computation.
+
+### Suggested Study Path:
+- **1st Step**: Go through K&R2 exercises while learning C89 deeply. Focus on fundamental topics like pointers, arrays, memory management, and basic algorithms.
+- 
+- **2nd Step**: Add C99 features to your existing knowledge and start applying them in practice.
+- 
+- **3rd Step**: After feeling confident, move into C11/C18, especially if you are interested in more modern C development such as threading and memory optimizations.
+- 
+- **4th Step** (Optional): If you're interested in cutting-edge features, explore C2x as it is still evolving.

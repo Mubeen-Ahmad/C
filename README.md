@@ -16,6 +16,6 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/7_Tokens.ipynb">Tokens</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/8_General_form.ipynb">General Form of c Code</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/9_printf_function.ipynb">printf Function , Format String and Single,Double Qoutes </a><br>
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/10_scanf_function.ipynb">scanf Function </a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/10_scanf_function.ipynb">scanf Function and pass Multiple parameters in printf and scanf</a><br>
 
 </details>

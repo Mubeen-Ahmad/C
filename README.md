@@ -18,4 +18,5 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/9_printf_function.ipynb">printf Function , Format String and Single,Double Qoutes </a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/10_scanf_function.ipynb">scanf Function and pass Multiple parameters in printf and scanf</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/11_variables.ipynb">Identifers and Variables</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/12_Types_of_variables.ipynb">Variables Types</a><br>
 </details>

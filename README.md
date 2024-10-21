@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary> <h2>Tokens, IO - Function , Variables, Constants and Comments</h2></summary>
+<summary> <h2>Tokens, IO - Function , Identifers ,Variables, Constants and Comments</h2></summary>
 
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/7_Tokens.ipynb">Tokens</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/8_General_form.ipynb">General Form of c Code</a><br>

@@ -19,5 +19,5 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/10_scanf_function.ipynb">scanf Function and pass Multiple parameters in printf and scanf</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/11_variables.ipynb">Identifers and Variables</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/12_Types_of_variables.ipynb">Variables Types</a><br>
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/13_comments.ipynb">Comments</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/13_comments.ipynb">Comments and Storage Durations, </a><br>
 </details>

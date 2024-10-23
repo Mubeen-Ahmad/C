@@ -157,4 +157,5 @@ C2x abhi officially release nahi hua, lekin kuch features jo expected hain, unme
 4. **C18**: Refinement of C11 features, focus on thread-safety and safe functions.
 5. **C2x**: Type inference (`typeof`), more robust multithreading, and better static analysis tools.
 
-Tum is roadmap ko follow karte hue har version ke zaroori aur relevant features ko target karo, aur purane ya obsolete concepts ko side line kar do.
+---
+There is no global. In ISO C there are four scopes: function scope, file scope, block scope and function prototype scope. What you refer to as "global" is surely a variable declared with file scope and external linkage. Make note that there are categories of scope, storage duration and perhaps linkage in C that you don't seem to be learning... this is meant to teach ISO C, right?

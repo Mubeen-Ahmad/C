@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary> <h2>Tokens, GeneraI-C-Code,  IO-Function ,  Identifers  ,Variables,  Comments</h2></summary>
+<summary> <h2>Tokens, GeneraI-C-Code,  IO-Function ,  Identifers  ,Variables,  Scopes. Linkages, Storage-Durations  and Comments</h2></summary>
 
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/7_Tokens.ipynb">Tokens</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/8_General_form.ipynb">General Form of c Code</a><br>
@@ -19,5 +19,7 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/10_scanf_function.ipynb">scanf Function and pass Multiple parameters in printf and scanf</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/11_variables.ipynb">Identifers and Variables</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/12_Types_of_variables.ipynb">Variables Types</a><br>
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/13_comments.ipynb">Comments and Storage Durations, </a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/13_Scope_Linkage_SD_comments.ipynb">Scope, Linkages, Storage Durations and Comments</a><br>
 </details>
+
+

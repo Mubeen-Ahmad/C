@@ -22,4 +22,9 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/13_Scope_Linkage_SD_comments.ipynb">Scope, Linkages, Storage Durations and Comments</a><br>
 </details>
 
+<details>
+<summary> <h2>Data Storage Units , Number System, ASCII, DataTypes and Constants</h2></summary>
+
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/bit_and_units.ipynb">Bits and Storage Units</a><br>
+</details>
 

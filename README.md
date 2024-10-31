@@ -23,8 +23,9 @@
 </details>
 
 <details>
-<summary> <h2>Data Storage Units , Number System, ASCII, DataTypes and Constants</h2></summary>
+<summary> <h2>Data Storage Units , Number System, ASCII</h2></summary>
 
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/bit_and_units.ipynb">Bits and Storage Units</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/14_bit_and_units.ipynb">Bits and Storage Units</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/15_Number_System.ipynb">Number System and also (Binary, Octal, Hexadecimal)</a><br>
 </details>
 

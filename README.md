@@ -29,3 +29,10 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/16_encodings.ipynb">Encoding (Morse Code,Binary Codes, ASCII, E-ASCII, Unicode)</a><br>
 </details>
 
+<details>
+<summary> <h2>Data Types</h2></summary>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/17_Literals.ipynb">Literals , Notaions, Prefix , Suffiex, Escape Sequences</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/18_datatypes_overview.ipynb">Data Types Basic Overview</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/19_Integers.ipynb">integers</a><br>
+
+</details>

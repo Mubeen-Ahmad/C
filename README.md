@@ -34,5 +34,6 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/17_Literals.ipynb">Literals , Notaions, Prefix , Suffiex, Escape Sequences</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/18_datatypes_overview.ipynb">Data Types Basic Overview</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/19_Integers.ipynb">integers</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/19_Integers.ipynb">Floats</a><br>
 
 </details>

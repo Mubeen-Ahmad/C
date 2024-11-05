@@ -27,11 +27,11 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/14_bit_and_units.ipynb">Bits and Storage Units</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/15_Number_System.ipynb">Number System and also (Binary, Octal, Hexadecimal)</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/16_encodings.ipynb">Encoding (Morse Code,Binary Codes, ASCII, E-ASCII, Unicode)</a><br>
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/16_encodings.ipynb">Negative Numbers</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/16_1_negative_numbers.ipynb">Negative Numbers</a><br>
 </details>
 
 <details>
-<summary> <h2>Data Types (Primative)</h2></summary>
+<summary> <h2>Data Types (Primitive)</h2></summary>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/17_Literals.ipynb">Literals , Notaions, Prefix , Suffiex, Escape Sequences</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/18_datatypes_overview.ipynb">Data Types Basic Overview</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/19_Integers.ipynb">integers</a><br>

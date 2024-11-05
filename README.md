@@ -28,6 +28,7 @@
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/15_Number_System.ipynb">Number System and also (Binary, Octal, Hexadecimal)</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/16_encodings.ipynb">Encoding (Morse Code,Binary Codes, ASCII, E-ASCII, Unicode)</a><br>
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/16_1_negative_numbers.ipynb">Negative Numbers</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/16_2_float_numbers.ipynb">Fractonal Numbers</a><br>
 </details>
 
 <details>

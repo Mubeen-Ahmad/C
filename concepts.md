@@ -162,47 +162,24 @@ There is no global. In ISO C there are four scopes: function scope, file scope, 
 
 ---
 
-Computer mein characters ko store karne ke encoding systems, jaise ASCII aur Unicode, ki kahani computer science ke initial development se shuru hoti hai. Yeh ek aise waqt mein aayi jab machines ko characters aur numbers ko samajhne aur store karne ki zarurat thi. Aayein iski kahani ko sequence mein samjhein:
-1. Telegraph aur Morse Code ka Zamaana:
+C mein conditional statements ke liye basic aur advanced cheezein jo istemal hoti hain woh yeh hain:
 
-    Telegraph ek bahut purana communication system tha jo 1830s ke aas-paas invent hua tha. Telegraph lines ke zariye log apne messages ko chhoti chhoti signals mein transfer karte the. Morse Code ka istemal hua, jo dots aur dashes ka istemal karke letters aur numbers ko represent karta tha.
-    Challenges: Morse Code manual tha aur limited symbols ko hi efficiently represent kar sakta tha.
+    If Statement: Simple conditional check ke liye. Yeh kisi expression ko evaluate karke agar true ho, toh ek block run karta hai. Agar false ho toh wo block skip ho jata hai.
 
-2. Punch Cards aur Binary Codes (Late 19th Century):
+    If-Else Statement: Yeh simple if ke saath else ka option provide karta hai taake agar if ka condition false ho toh else ka code run ho sake.
 
-    19th century mein punch cards ka istemal start hua, jise Herman Hollerith ne 1890s mein develop kiya. Punch cards par holes aur no-holes ka istemal hota tha jo binary form (0 aur 1) ke tarah kaam karta tha.
-    Punch cards ko tab industrial machines aur computers mein data store karne aur process karne ke liye use kiya jaane laga.
+    Nested If-Else Statements: Yeh tab use hota hai jab multiple conditions check karni ho, jese ke ek if ke andar aur if-else statements likhe jate hain.
 
-3. Binary Number System aur Computers ka Aaghaaz:
+    Else-If Ladder: Multiple conditions ko check karne ka ek aur tareeqa hai, jisme if ke baad else-if conditions ka ek ladder banta hai. Pehla true condition match hone par code us block ko run karta hai aur baki conditions ko skip kar deta hai.
 
-    1930s ke dauraan binary number system ka istemal computing ke liye zyada taraha se samajh mein aane laga, jo numbers aur letters ko represent karne mein asaani provide karta tha.
-    George Boole ne binary logic ka concept diya, jise Boolean logic kaha jaata hai. Yeh hi wo logic hai jise computer aaj bhi use karta hai, aur jisme 1 aur 0 ke form mein information store hoti hai.
+    Switch Statement: Yeh kaafi effective hota hai jab multiple conditions ek hi variable par depend karti hain. Yeh "switch" ek expression ko evaluate karta hai aur har case ka code uske match hone par run karta hai.
 
-4. ASCII ka Invention (1960s):
+    Ternary Operator (?:): Yeh ek shorthand if-else hai, aur simple conditions ke liye use hota hai. Yeh syntax kuch is tarah hai: condition ? expression1 : expression2.
 
-    Computers jab zyada popular hone lage, to American Standard Code for Information Interchange (ASCII) ko 1963 mein develop kiya gaya. Yeh ek standard tha jo 7-bit code ka istemal karke 128 characters ko represent karta tha, jisme a-z, A-Z, numbers 0-9 aur kuch special symbols the.
-    ASCII ka Impact: ASCII ne ek standardized way provide kiya taake computers ko ek universal code mile jo easily communicate kar sake.
+    Jump Statements:
+        Break: Loop ya switch se bahar nikalne ke liye istamal hota hai jab kuch specific condition satisfy ho jaye.
+        Continue: Yeh loop ke current iteration ko skip kar ke next iteration par jump karne mein madad karta hai.
+        Goto: Yeh code mein kisi specific label par jump karne ke liye hai, lekin modern coding mein isko avoid karna recommend hota hai.
+        Return: Yeh function ko exit karta hai aur value return kar sakta hai.
 
-5. Extended ASCII aur 8-bit Codes (1970s-1980s):
-
-    ASCII initially sirf 128 characters ko support karta tha, lekin jab dusri languages aur special symbols ki zarurat hui, to Extended ASCII banaya gaya jo 8-bit codes ka use karta tha aur 256 characters ko support kar sakta tha.
-    Yeh system English ke ilawa kuch European languages aur symbols ko bhi represent karne laga.
-
-6. Unicode ka Aana (1990s):
-
-    Jab computers global level par popular hue, to duniya bhar mein alag alag languages aur symbols ki zarurat samajh mein aayi. ASCII aur Extended ASCII sirf limited characters ko hi represent kar sakte the.
-    Unicode Consortium 1991 mein establish hua, aur Unicode Standard banaya gaya, jo har language aur symbol ko encode kar sakta tha. Unicode mein UTF-8, UTF-16, aur UTF-32 jaise encoding systems aaye jo multi-byte support dete hain.
-    UTF-8: Aaj ka sabse common encoding system UTF-8 hai, jo 1 byte se lekar 4 bytes tak ke codes ko efficiently store kar sakta hai, aur backward compatible bhi hai ASCII ke saath.
-
-7. Modern Computing aur Emojis:
-
-    Aaj ke modern computing systems mein Unicode ke naye versions aate hain jo naye characters aur emojis ko bhi include karte hain.
-    Unicode ne ek complete universal standard develop kiya hai jo har language aur special character, jisme emojis aur technical symbols bhi hain, ko support karta hai. Aaj Unicode ke paas lagbhag 140,000+ characters ka database hai.
-
-Summary:
-
-    Pehle Morse Code aur punch cards ka use hota tha, phir binary logic se computers mein data representation aasan hua.
-    ASCII ne standardized character encoding introduce kiya jo English language ke liye use hota tha.
-    Extended ASCII aur phir Unicode aaye, jo zyada languages, symbols aur modern emojis tak ko support karte hain.
-
-Yeh kahani hai ki kaise hum binary codes se lekar Unicode jaise complex aur diverse encoding systems tak pahunche, jo har language aur character ko store aur represent kar sakte hain. Aaj Unicode ke wajah se har character aur symbol ko efficiently store karna aur transfer karna possible hai.
+Ye sare control flow aur conditional logic ke options C aur modern C mein istemal hote hain aur ye aapko flexible aur effective code likhne mein

@@ -47,6 +47,13 @@
 <summary> <h2>Confitional Statments</h2></summary>
 
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/21_ifelse.ipynb">if , else-if, else</a><br>
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/22_switch_case.ipynb">Switch-Case and Goto-Jump Statements</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/22_switch_case.ipynb">Switch-Case and Goto-Jump Statements</a>
+
+</details>
+
+<details>
+<summary> <h2>Operators</h2></summary>
+
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/21_ifelse.ipynb">Arithmetic Operators Precedence | Associativity</a><br>
 
 </details>

@@ -54,6 +54,9 @@
 <details>
 <summary> <h2>Operators</h2></summary>
 
-- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/21_ifelse.ipynb">Arithmetic Operators Precedence | Associativity</a><br>
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/23_Operators.ipynb">Arithmetic Operators Precedence | Associativity</a><br>
+    
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/24_Relational_Operators.ipynb">Relational Operators Precedence | Associativity</a><br>
+
 
 </details>

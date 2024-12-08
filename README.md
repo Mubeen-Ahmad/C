@@ -58,5 +58,7 @@
     
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/24_Relational_Operators.ipynb">Relational Operators Precedence | Associativity</a><br>
 
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/25_Logical_Operators.ipynb">Logical Operators Precedence | Associativity</a><br>
+
 
 </details>

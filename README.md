@@ -60,5 +60,10 @@
 
 - <a href="https://github.com/Mubeen-Ahmad/C/blob/main/25_Logical_Operators.ipynb">Logical Operators Precedence | Associativity</a><br>
 
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/26_Bitwise.ipynb">Bitwise Operators Precedence | Associativity</a><br>
+    
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/27_Assignment.ipynb">Assignment Operators</a><br>
+
+- <a href="https://github.com/Mubeen-Ahmad/C/blob/main/28_Miscellaneous_Operators.ipynb">More Remaining Operators</a><br>
 
 </details>
